@@ -1,0 +1,24 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "hobbies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node people.js",
+    "watch": "node --watch people.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamueleTerraroli/node-commonjs-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamueleTerraroli/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/SamueleTerraroli/node-commonjs-modules#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}

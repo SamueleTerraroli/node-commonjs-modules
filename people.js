@@ -5,7 +5,7 @@ const person = (()=>{
     
     return {
         fullName: fullName('Samuele','Terraroli'),
-        hobbies: hobbies('sport','musica','videogochi') 
+        hobbies: hobbies('sport','musica','videogiochi') 
     }
 })
 console.log(person())
